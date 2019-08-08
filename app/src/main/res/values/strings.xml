@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">zipfile</string>
+    <string name="updated_count">Counter: %d</string>
+</resources>
